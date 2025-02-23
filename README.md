@@ -4,7 +4,7 @@
 
 Welcome to **NXE Academy All Tools** – Your ultimate collection of hacking and security tools! This repository provides a curated list of powerful tools for penetration testing, ethical hacking, and cybersecurity research. Whether you're a beginner or an expert, NXE Academy has something for everyone.
 
-[![Join Discord](https://img.shields.io/discord/your-discord-server-id?label=Join%20Our%20Discord&style=for-the-badge&logo=discord)](([https://discord.gg/ph5ahRQ8jC]))
+[![Join Discord](https://img.shields.io/discord/your-discord-server-id?label=Join%20Our%20Discord&style=for-the-badge&logo=discord)](https://discord.gg/ph5ahRQ8jC)
 
 ---
 
