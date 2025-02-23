@@ -1,3 +1,17 @@
+
+
+## 🚀 Features
+
+- **Phishing Tools**: Easily set up phishing campaigns for educational purposes.
+- **WebCam Hacking**: Test the security of webcams.
+- **DDOS Attack Tools**: Simulate DDOS attacks for security testing.
+- **Gmail Bomber**: Test email security with a Gmail bombing tool.
+- **IP Info**: Gather information about any IP address.
+- **Virus Crafting**: Create harmless test viruses for educational purposes.
+- **And much more!**
+
+---
+
 ## 🛠️ Installation
 
 1. **Clone the Repository**:
@@ -8,18 +22,18 @@ Install Dependencies:
 
 bash
 Copy
-pip install -r requirements.txt
+```pip install -r requirements.txt
 Run the Script:
 
 bash
 Copy
-python nxe_academy.py
+```python nxe_academy.py
 🎯 Usage
 Launch the script:
 
 bash
 Copy
-python nxe_academy.py
+```python nxe_academy.py
 Follow the on-screen instructions to select and use the tools.
 
 For detailed usage of each tool, refer to the respective tool's documentation.
