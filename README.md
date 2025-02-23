@@ -28,3 +28,7 @@ Follow these steps to install and run the NXE Academy All Tools:
    ```bash
    git clone https://github.com/DEVAGTEAM/nxeacademyalltool.git
    cd nxeacademyalltool
+
+1. **Clone the Repository**:
+   ```bash
+python nxe_academy.py
